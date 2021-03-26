@@ -15,29 +15,32 @@ labels:
 
 projects:
   - name: "Bitcoin"
+    category: "blockchain"
     github_id: "bitcoin/bitcoin"
-    labels:
-        - "PoW"
-    category: "blockchain"
     image: "https://avatars.githubusercontent.com/u/528860?s=200&v=4"
-  - name: "Etherum"
+    labels:
+        - "PoW"
+  - name: "Cardano"
+    category: "blockchain"
+    github_id: "input-output-hk/cardano-node"
+    image: "https://github.com/spothq/cryptocurrency-icons/blob/master/svg/icon/ada.svg"
+    labels:
+        - "PoS"
+  - name: "Chainlink"
+    category: "blockchain"
+    github_id: "smartcontractkit/chainlink"
+    image: "https://avatars.githubusercontent.com/u/25111032?s=200&v=4"
+    labels: []
+  - name: "Ethereum"
+    category: "blockchain"
     github_id: "ethereum/go-ethereum"
+    image: "https://avatars.githubusercontent.com/u/6250754?s=200&v=4"
     labels:
         - "PoW"
         - "PoS"
-    category: "blockchain"
-    image: "https://avatars.githubusercontent.com/u/6250754?s=200&v=4"
   - name: "Polkadot"
+    category: "blockchain"
     github_id: "paritytech/polkadot"
-    labels:
-        - "PoS"
     image: "https://avatars.githubusercontent.com/u/14176906?s=200&v=4"
-  - name: "Cardano"
-    github_id: "input-output-hk/cardano-node"
     labels:
         - "PoS"
-    image: "https://github.com/spothq/cryptocurrency-icons/blob/master/svg/icon/ada.svg"
-  - name: "Chainlink"
-    github_id: "smartcontractkit/chainlink"
-    labels: []
-    image: "https://avatars.githubusercontent.com/u/25111032?s=200&v=4"
