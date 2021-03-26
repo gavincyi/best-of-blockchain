@@ -3,17 +3,41 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "blockchain"
+    title: "Blockchain"
+    subtitle: "Best-of lists about the blockchain solution"
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "PoW"
+    description: "Proof of work"
+  - label: "PoS"
+    description: "Proof of stake"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: "Bitcoin"
+    github_id: "bitcoin/bitcoin"
+    labels:
+        - "PoW"
+    category: "blockchain"
+    image: "https://avatars.githubusercontent.com/u/528860?s=200&v=4"
+  - name: "Etherum"
+    github_id: "ethereum/go-ethereum"
+    labels:
+        - "PoW"
+        - "PoS"
+    category: "blockchain"
+    image: "https://avatars.githubusercontent.com/u/6250754?s=200&v=4"
+  - name: "Polkadot"
+    github_id: "paritytech/polkadot"
+    labels:
+        - "PoS"
+    image: "https://avatars.githubusercontent.com/u/14176906?s=200&v=4"
+  - name: "Cardano"
+    github_id: "input-output-hk/cardano-node"
+    labels:
+        - "PoS"
+    image: "https://github.com/spothq/cryptocurrency-icons/blob/master/svg/icon/ada.svg"
+  - name: "Chainlink"
+    github_id: "smartcontractkit/chainlink"
+    labels: []
+    image: "https://avatars.githubusercontent.com/u/25111032?s=200&v=4"
