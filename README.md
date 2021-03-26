@@ -43,6 +43,7 @@ This curated list contains 0 awesome open-source projects with a total of 0 star
 
 ## Related Resources
 
+- awesome-blockchain(https://github.com/imbaniac/awesome-blockchain) - Curated list of blockchain services and exchanges.
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
 
 ## Contribution
