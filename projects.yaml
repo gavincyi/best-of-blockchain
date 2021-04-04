@@ -6,43 +6,111 @@ categories:
   - category: "blockchain"
     title: "Blockchain"
     subtitle: "Best-of lists about the blockchain solution"
+  - category: "smart-contracts"
+    title: "Smart Contracts"
+    subtitle: "Best-of lists about the smart contracts"
 
 labels:
   - label: "PoW"
-    image: "https://www.flaticon.com/premium-icon/icons/svg/1468/1468172.svg"
+    image: "icons/PoW.png"
     description: "Proof of work"
   - label: "PoS"
-    image: "https://www.flaticon.com/premium-icon/icons/svg/1468/1468171.svg"
+    image: "icons/PoS.png"
     description: "Proof of stake"
+  - label: "dPoS"
+    image: "icons/dPoS.png"
+    description: "Delegated proof of stake"
 
 projects:
+  - name: "Binance chain"
+    category: "blockchain"
+    github_id: "binance-chain/bsc"
+    labels:
+        - "PoS"
+  - name: "Binance USD"
+    category: "smart-contract"
+    github_id: "paxosglobal/busd-contract"
+    labels: []
   - name: "Bitcoin"
     category: "blockchain"
     github_id: "bitcoin/bitcoin"
-    image: "https://avatars.githubusercontent.com/u/528860?s=200&v=4"
     labels:
         - "PoW"
   - name: "Cardano"
     category: "blockchain"
     github_id: "input-output-hk/cardano-node"
-    image: "https://github.com/spothq/cryptocurrency-icons/blob/master/svg/icon/ada.svg"
     labels:
         - "PoS"
   - name: "Chainlink"
     category: "blockchain"
     github_id: "smartcontractkit/chainlink"
-    image: "https://avatars.githubusercontent.com/u/25111032?s=200&v=4"
     labels: []
+  - name: "Dash"
+    category: "blockchain"
+    github_id: "dashpay/dash"
+    labels:
+        - "PoW"
+  - name: "Dogecoin"
+    category: "blockchain"
+    github_id: "dogecoin/dogecoin"
+    labels:
+        - "PoW"
+  - name: "EOS"
+    category: "blockchain"
+    github_id: "EOSIO/eos"
+    labels:
+        - "dPoS"
   - name: "Ethereum"
     category: "blockchain"
     github_id: "ethereum/go-ethereum"
-    image: "https://avatars.githubusercontent.com/u/6250754?s=200&v=4"
     labels:
         - "PoW"
         - "PoS"
+  - name: "Litecoin"
+    category: "blockchain"
+    github_id: "litecoin-project/litecoin"
+    labels:
+        - "PoW"
+  - name: "Monero"
+    category: "blockchain"
+    github_id: "monero-project/monero"
+    labels:
+        - "PoW"
+  - name: "Paxos"
+    category: "smart-contract"
+    github_id: "paxosglobal/pax-contracts"
+    labels: []
   - name: "Polkadot"
     category: "blockchain"
     github_id: "paritytech/polkadot"
-    image: "https://avatars.githubusercontent.com/u/14176906?s=200&v=4"
     labels:
         - "PoS"
+  - name: "Stellar"
+    category: "blockchain"
+    github_id: "stellar/stellar-core"
+    labels:
+        - "PoS"
+  - name: "Terra"
+    category: "blockchain"
+    github_id: "terra-project/core"
+    labels:
+        - "dPoS"
+  - name: "Tezos"
+    category: "blockchain"
+    gitlab_id: "tezos/tezos"
+    labels:
+        - "dPoS"
+  - name: "TRON"
+    category: "blockchain"
+    github_id: "tronprotocol/java-tron"
+    labels:
+        - "dPoS"
+  - name: "USD Coin"
+    category: "smart-contract"
+    github_id: "centrehq/centre-tokens"
+    labels: []
+  - name: "Zcash"
+    category: "blockchain"
+    github_id: "zcash/zcash"
+    labels:
+        - PoW
