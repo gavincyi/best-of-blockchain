@@ -9,8 +9,10 @@ categories:
 
 labels:
   - label: "PoW"
+    image: "https://www.flaticon.com/premium-icon/icons/svg/1468/1468172.svg"
     description: "Proof of work"
   - label: "PoS"
+    image: "https://www.flaticon.com/premium-icon/icons/svg/1468/1468171.svg"
     description: "Proof of stake"
 
 projects:
