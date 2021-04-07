@@ -6,9 +6,9 @@ categories:
   - category: "blockchain"
     title: "Blockchain"
     subtitle: "Best-of lists about the blockchain solution"
-  - category: "smart-contracts"
-    title: "Smart Contracts"
-    subtitle: "Best-of lists about the smart contracts"
+  - category: "smart-contract"
+    title: "Smart Contract"
+    subtitle: "Best-of lists about the smart contract"
 
 labels:
   - label: "PoW"
