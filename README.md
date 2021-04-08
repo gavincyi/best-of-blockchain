@@ -61,7 +61,7 @@ _Best-of lists about the blockchain solution_
 </details>
 <details><summary><b><a href="https://github.com/ethereum/go-ethereum">Ethereum</a></b> (🥇27 ·  ⭐ 29K) - Official Go implementation of the Ethereum protocol. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ethereum/go-ethereum) (👨‍💻 590 · 🔀 9.9K · 📥 130K · 📋 5.5K - 3% open · ⏱️ 07.04.2021):
+- [GitHub](https://github.com/ethereum/go-ethereum) (👨‍💻 590 · 🔀 9.9K · 📥 110K · 📋 5.5K - 3% open · ⏱️ 08.04.2021):
 
 	```
 	git clone https://github.com/ethereum/go-ethereum
@@ -85,7 +85,7 @@ _Best-of lists about the blockchain solution_
 </details>
 <details><summary><b><a href="https://github.com/bitcoin/bitcoin">Bitcoin</a></b> (🥈25 ·  ⭐ 52K) - Bitcoin Core integration/staging tree. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/bitcoin/bitcoin) (👨‍💻 960 · 🔀 19K · 📋 6.1K - 9% open · ⏱️ 07.04.2021):
+- [GitHub](https://github.com/bitcoin/bitcoin) (👨‍💻 960 · 🔀 19K · 📋 6.1K - 9% open · ⏱️ 08.04.2021):
 
 	```
 	git clone https://github.com/bitcoin/bitcoin
@@ -93,7 +93,7 @@ _Best-of lists about the blockchain solution_
 </details>
 <details><summary><b><a href="https://github.com/smartcontractkit/chainlink">Chainlink</a></b> (🥈24 ·  ⭐ 1.7K) - node of the decentralized oracle network, bridging on and off-chain.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/smartcontractkit/chainlink) (👨‍💻 82 · 🔀 440 · 📦 160 · 📋 190 - 16% open · ⏱️ 07.04.2021):
+- [GitHub](https://github.com/smartcontractkit/chainlink) (👨‍💻 83 · 🔀 450 · 📦 160 · 📋 190 - 16% open · ⏱️ 08.04.2021):
 
 	```
 	git clone https://github.com/smartcontractkit/chainlink
@@ -117,7 +117,7 @@ _Best-of lists about the blockchain solution_
 </details>
 <details><summary><b><a href="https://github.com/paritytech/polkadot">Polkadot</a></b> (🥉21 ·  ⭐ 2.9K) - Polkadot Node Implementation. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/paritytech/polkadot) (👨‍💻 110 · 🔀 580 · 📥 18K · 📋 780 - 26% open · ⏱️ 07.04.2021):
+- [GitHub](https://github.com/paritytech/polkadot) (👨‍💻 110 · 🔀 580 · 📥 18K · 📋 780 - 26% open · ⏱️ 08.04.2021):
 
 	```
 	git clone https://github.com/paritytech/polkadot
@@ -125,15 +125,15 @@ _Best-of lists about the blockchain solution_
 </details>
 <details><summary><b><a href="https://github.com/binance-chain/bsc">Binance chain</a></b> (🥉21 ·  ⭐ 240) - A Binance Smart Chain client based on the go-ethereum.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/binance-chain/bsc) (👨‍💻 510 · 🔀 84 · 📥 7.8K · 📋 77 - 31% open · ⏱️ 03.04.2021):
+- [GitHub](https://github.com/binance-chain/bsc) (👨‍💻 510 · 🔀 86 · 📥 8.1K · 📋 78 - 32% open · ⏱️ 03.04.2021):
 
 	```
 	git clone https://github.com/binance-chain/bsc
 	```
 </details>
-<details><summary><b><a href="https://github.com/input-output-hk/cardano-node">Cardano</a></b> (🥉19 ·  ⭐ 1.1K) - The core component that is used to participate in a Cardano.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/input-output-hk/cardano-node">Cardano</a></b> (🥉20 ·  ⭐ 1.1K · 📈) - The core component that is used to participate in a Cardano.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/input-output-hk/cardano-node) (👨‍💻 74 · 🔀 210 · 📋 760 - 27% open · ⏱️ 07.04.2021):
+- [GitHub](https://github.com/input-output-hk/cardano-node) (👨‍💻 74 · 🔀 210 · 📋 760 - 27% open · ⏱️ 08.04.2021):
 
 	```
 	git clone https://github.com/input-output-hk/cardano-node
