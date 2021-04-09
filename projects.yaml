@@ -76,6 +76,15 @@ projects:
     github_id: "monero-project/monero"
     labels:
         - "PoW"
+  - name: "Pancake swap"
+    category: "smart-contract"
+    github_id: "pancakeswap/pancake-swap-core"
+    labels: []
+  - name: "Zcash"
+    category: "blockchain"
+    github_id: "zcash/zcash"
+    labels:
+        - PoW        
   - name: "Paxos"
     category: "smart-contract"
     github_id: "paxosglobal/pax-contracts"
