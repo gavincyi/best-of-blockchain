@@ -94,6 +94,11 @@ projects:
     github_id: "paritytech/polkadot"
     labels:
         - "PoS"
+  - name: "Solana"
+    category: "blockchain"
+    github_id: "solana-labs/solana"
+    labels:
+        - "PoS"
   - name: "Stellar"
     category: "blockchain"
     github_id: "stellar/stellar-core"
