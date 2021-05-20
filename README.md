@@ -51,9 +51,9 @@ This curated list contains 19 awesome open-source projects with a total of 130K 
 
 _Best-of lists about the blockchain solution_
 
-<details><summary><b><a href="https://github.com/dogecoin/dogecoin">Dogecoin</a></b> (🥇28 ·  ⭐ 7.1K) - very currency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/dogecoin/dogecoin">Dogecoin</a></b> (🥇28 ·  ⭐ 8K) - very currency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/dogecoin/dogecoin) (👨‍💻 550 · 🔀 1.3K · 📥 7.8M · 📋 640 - 16% open · ⏱️ 28.02.2021):
+- [GitHub](https://github.com/dogecoin/dogecoin) (👨‍💻 550 · 🔀 1.4K · 📥 7.9M · 📋 660 - 17% open · ⏱️ 28.02.2021):
 
 	```
 	git clone https://github.com/dogecoin/dogecoin
@@ -61,7 +61,7 @@ _Best-of lists about the blockchain solution_
 </details>
 <details><summary><b><a href="https://github.com/ethereum/go-ethereum">Ethereum</a></b> (🥇27 ·  ⭐ 30K) - Official Go implementation of the Ethereum protocol. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ethereum/go-ethereum) (👨‍💻 600 · 🔀 10K · 📥 110K · 📋 5.5K - 3% open · ⏱️ 29.04.2021):
+- [GitHub](https://github.com/ethereum/go-ethereum) (👨‍💻 600 · 🔀 10K · 📥 100K · 📋 5.5K - 3% open · ⏱️ 06.05.2021):
 
 	```
 	git clone https://github.com/ethereum/go-ethereum
@@ -69,13 +69,13 @@ _Best-of lists about the blockchain solution_
 </details>
 <details><summary><b><a href="https://github.com/EOSIO/eos">EOS</a></b> (🥇27 ·  ⭐ 11K) - An open source smart contract platform. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/dPoS.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/EOSIO/eos) (👨‍💻 260 · 🔀 3.3K · 📥 66K · 📋 4.9K - 5% open · ⏱️ 19.04.2021):
+- [GitHub](https://github.com/EOSIO/eos) (👨‍💻 260 · 🔀 3.3K · 📥 67K · 📋 4.9K - 5% open · ⏱️ 19.04.2021):
 
 	```
 	git clone https://github.com/EOSIO/eos
 	```
 </details>
-<details><summary><b><a href="https://github.com/dashpay/dash">Dash</a></b> (🥇27 ·  ⭐ 1.4K) - Dash - Reinventing Cryptocurrency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/dashpay/dash">Dash</a></b> (🥈26 ·  ⭐ 1.4K · 📉) - Dash - Reinventing Cryptocurrency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/dashpay/dash) (👨‍💻 500 · 🔀 1.1K · 📥 85M · 📋 570 - 13% open · ⏱️ 15.11.2020):
 
@@ -85,15 +85,15 @@ _Best-of lists about the blockchain solution_
 </details>
 <details><summary><b><a href="https://github.com/bitcoin/bitcoin">Bitcoin</a></b> (🥈25 ·  ⭐ 53K) - Bitcoin Core integration/staging tree. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/bitcoin/bitcoin) (👨‍💻 960 · 🔀 20K · 📋 6.2K - 9% open · ⏱️ 29.04.2021):
+- [GitHub](https://github.com/bitcoin/bitcoin) (👨‍💻 970 · 🔀 20K · 📋 6.2K - 9% open · ⏱️ 06.05.2021):
 
 	```
 	git clone https://github.com/bitcoin/bitcoin
 	```
 </details>
-<details><summary><b><a href="https://github.com/smartcontractkit/chainlink">Chainlink</a></b> (🥈24 ·  ⭐ 1.8K) - node of the decentralized oracle network, bridging on and off-chain.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/smartcontractkit/chainlink">Chainlink</a></b> (🥈24 ·  ⭐ 1.9K) - node of the decentralized oracle network, bridging on and off-chain.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/smartcontractkit/chainlink) (👨‍💻 85 · 🔀 470 · 📦 180 · 📋 200 - 16% open · ⏱️ 29.04.2021):
+- [GitHub](https://github.com/smartcontractkit/chainlink) (👨‍💻 86 · 🔀 480 · 📦 180 · 📋 200 - 16% open · ⏱️ 06.05.2021):
 
 	```
 	git clone https://github.com/smartcontractkit/chainlink
@@ -101,50 +101,43 @@ _Best-of lists about the blockchain solution_
 </details>
 <details><summary><b><a href="https://github.com/tronprotocol/java-tron">TRON</a></b> (🥉23 ·  ⭐ 2.6K) - Java implementation of the Tron whitepaper. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="icons/dPoS.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/tronprotocol/java-tron) (👨‍💻 220 · 🔀 810 · 📥 61K · 📋 810 - 0% open · ⏱️ 29.04.2021):
+- [GitHub](https://github.com/tronprotocol/java-tron) (👨‍💻 220 · 🔀 810 · 📥 62K · 📋 810 - 1% open · ⏱️ 29.04.2021):
 
 	```
 	git clone https://github.com/tronprotocol/java-tron
 	```
 </details>
-<details><summary><b><a href="https://github.com/litecoin-project/litecoin">Litecoin</a></b> (🥉22 ·  ⭐ 3.8K · 💤) - Litecoin source tree. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/litecoin-project/litecoin) (👨‍💻 760 · 🔀 2.5K · 📋 410 - 12% open · ⏱️ 29.04.2020):
-
-	```
-	git clone https://github.com/litecoin-project/litecoin
-	```
-</details>
 <details><summary><b><a href="https://github.com/paritytech/polkadot">Polkadot</a></b> (🥉21 ·  ⭐ 3.2K) - Polkadot Node Implementation. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/paritytech/polkadot) (👨‍💻 120 · 🔀 620 · 📥 21K · 📋 800 - 26% open · ⏱️ 29.04.2021):
+- [GitHub](https://github.com/paritytech/polkadot) (👨‍💻 120 · 🔀 630 · 📥 22K · 📋 810 - 26% open · ⏱️ 06.05.2021):
 
 	```
 	git clone https://github.com/paritytech/polkadot
 	```
 </details>
-<details><summary><b><a href="https://github.com/binance-chain/bsc">Binance chain</a></b> (🥉21 ·  ⭐ 360) - A Binance Smart Chain client based on the go-ethereum.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/binance-chain/bsc">Binance chain</a></b> (🥉21 ·  ⭐ 380) - A Binance Smart Chain client based on the go-ethereum.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/binance-chain/bsc) (👨‍💻 510 · 🔀 120 · 📥 11K · 📋 110 - 41% open · ⏱️ 03.04.2021):
+- [GitHub](https://github.com/binance-chain/bsc) (👨‍💻 510 · 🔀 120 · 📥 13K · 📋 120 - 40% open · ⏱️ 03.04.2021):
 
 	```
 	git clone https://github.com/binance-chain/bsc
 	```
 </details>
-<details><summary><b><a href="https://github.com/input-output-hk/cardano-node">Cardano</a></b> (🥉20 ·  ⭐ 1.2K) - The core component that is used to participate in a Cardano.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/input-output-hk/cardano-node">Cardano</a></b> (🥉20 ·  ⭐ 1.3K) - The core component that is used to participate in a Cardano.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/input-output-hk/cardano-node) (👨‍💻 78 · 🔀 230 · 📋 790 - 26% open · ⏱️ 28.04.2021):
+- [GitHub](https://github.com/input-output-hk/cardano-node) (👨‍💻 79 · 🔀 230 · 📋 790 - 26% open · ⏱️ 05.05.2021):
 
 	```
 	git clone https://github.com/input-output-hk/cardano-node
 	```
 </details>
-<details><summary>Show 4 hidden projects...</summary>
+<details><summary>Show 5 hidden projects...</summary>
 
-- <b><a href="https://github.com/monero-project/monero">Monero</a></b> (🥉22 ·  ⭐ 5.7K) - Monero: the secure, private, untraceable cryptocurrency. <code>❗Unlicensed</code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/monero-project/monero">Monero</a></b> (🥉22 ·  ⭐ 5.8K) - Monero: the secure, private, untraceable cryptocurrency. <code>❗Unlicensed</code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/litecoin-project/litecoin">Litecoin</a></b> (🥉22 ·  ⭐ 3.8K · 💀) - Litecoin source tree. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/zcash/zcash">Zcash</a></b> (🥉21 ·  ⭐ 4.4K) - Zcash - Internet Money. <code>❗Unlicensed</code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/stellar/stellar-core">Stellar</a></b> (🥉18 ·  ⭐ 2.7K) - stellar-core is the reference implementation for the peer.. <code>❗Unlicensed</code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/terra-project/core">Terra</a></b> (🥉15 ·  ⭐ 240) - GO implementation of the Terra Protocol. <code>❗Unlicensed</code> <code><img src="icons/dPoS.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/terra-project/core">Terra</a></b> (🥉15 ·  ⭐ 250) - GO implementation of the Terra Protocol. <code>❗Unlicensed</code> <code><img src="icons/dPoS.png" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
@@ -164,9 +157,9 @@ _Best-of lists about the smart contract_
 </details>
 <details><summary>Show 3 hidden projects...</summary>
 
-- <b><a href="https://github.com/pancakeswap/pancake-swap-core">Pancake swap</a></b> (🥇15 ·  ⭐ 80 · 💤) - Core smart contracts. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
-- <b><a href="https://github.com/paxosglobal/pax-contracts">Paxos</a></b> (🥉11 ·  ⭐ 61) - Solidity smart contracts for the Paxos Standard ERC20 stablecoin PAX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/paxosglobal/busd-contract">Binance USD</a></b> (🥉9 ·  ⭐ 20) - Solidity smart contracts for the Binance USD. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/pancakeswap/pancake-swap-core">Pancake swap</a></b> (🥇16 ·  ⭐ 85 · 💤) - Core smart contracts. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/paxosglobal/pax-contracts">Paxos</a></b> (🥉10 ·  ⭐ 61 · 📉) - Solidity smart contracts for the Paxos Standard ERC20 stablecoin PAX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/paxosglobal/busd-contract">Binance USD</a></b> (🥉10 ·  ⭐ 22 · 📈) - Solidity smart contracts for the Binance USD. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 
 ---
