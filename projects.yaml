@@ -45,6 +45,10 @@ projects:
     category: "blockchain"
     github_id: "smartcontractkit/chainlink"
     labels: []
+  - name: "Compound"
+    category: "smart-contract"
+    github_id: "compound-finance/compound-protocol"
+    labels: []
   - name: "Dash"
     category: "blockchain"
     github_id: "dashpay/dash"
