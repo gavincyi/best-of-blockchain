@@ -51,7 +51,7 @@ This curated list contains 22 awesome open-source projects with a total of 140K 
 
 _Best-of lists about the blockchain solution_
 
-<details><summary><b><a href="https://github.com/dogecoin/dogecoin">Dogecoin</a></b> (🥇29 ·  ⭐ 10K · 📈) - very currency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/dogecoin/dogecoin">Dogecoin</a></b> (🥇29 ·  ⭐ 10K) - very currency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/dogecoin/dogecoin) (👨‍💻 550 · 🔀 1.7K · 📥 8.1M · 📋 710 - 17% open · ⏱️ 18.05.2021):
 
@@ -75,7 +75,7 @@ _Best-of lists about the blockchain solution_
 	git clone https://github.com/EOSIO/eos
 	```
 </details>
-<details><summary><b><a href="https://github.com/dashpay/dash">Dash</a></b> (🥇27 ·  ⭐ 1.4K · 📈) - Dash - Reinventing Cryptocurrency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/dashpay/dash">Dash</a></b> (🥇27 ·  ⭐ 1.4K) - Dash - Reinventing Cryptocurrency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/dashpay/dash) (👨‍💻 510 · 🔀 1.1K · 📥 85M · 📋 570 - 13% open · ⏱️ 19.05.2021):
 
@@ -91,9 +91,9 @@ _Best-of lists about the blockchain solution_
 	git clone https://github.com/bitcoin/bitcoin
 	```
 </details>
-<details><summary><b><a href="https://github.com/smartcontractkit/chainlink">Chainlink</a></b> (🥈25 ·  ⭐ 1.9K · 📈) - node of the decentralized oracle network, bridging on and off-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/smartcontractkit/chainlink">Chainlink</a></b> (🥈25 ·  ⭐ 1.9K) - node of the decentralized oracle network, bridging on and off-chain.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/smartcontractkit/chainlink) (👨‍💻 88 · 🔀 490 · 📦 190 · 📋 200 - 15% open · ⏱️ 19.05.2021):
+- [GitHub](https://github.com/smartcontractkit/chainlink) (👨‍💻 88 · 🔀 490 · 📦 190 · 📋 200 - 15% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/smartcontractkit/chainlink
@@ -107,7 +107,7 @@ _Best-of lists about the blockchain solution_
 	git clone https://github.com/tronprotocol/java-tron
 	```
 </details>
-<details><summary><b><a href="https://github.com/binance-chain/bsc">Binance chain</a></b> (🥉23 ·  ⭐ 450 · 📈) - A Binance Smart Chain client based on the go-ethereum.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/binance-chain/bsc">Binance chain</a></b> (🥉23 ·  ⭐ 450) - A Binance Smart Chain client based on the go-ethereum.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/binance-chain/bsc) (👨‍💻 600 · 🔀 150 · 📥 18K · 📋 160 - 43% open · ⏱️ 10.05.2021):
 
@@ -133,7 +133,7 @@ _Best-of lists about the blockchain solution_
 </details>
 <details><summary>Show 6 hidden projects...</summary>
 
-- <b><a href="https://github.com/solana-labs/solana">Solana</a></b> (🥈24 ·  ⭐ 2.1K · ➕) - Web-Scale Blockchain for fast, secure, scalable,.. <code>❗Unlicensed</code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/solana-labs/solana">Solana</a></b> (🥈24 ·  ⭐ 2.1K) - Web-Scale Blockchain for fast, secure, scalable,.. <code>❗Unlicensed</code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/monero-project/monero">Monero</a></b> (🥉22 ·  ⭐ 5.9K) - Monero: the secure, private, untraceable cryptocurrency. <code>❗Unlicensed</code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/litecoin-project/litecoin">Litecoin</a></b> (🥉22 ·  ⭐ 3.8K · 💀) - Litecoin source tree. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/zcash/zcash">Zcash</a></b> (🥉21 ·  ⭐ 4.4K) - Zcash - Internet Money. <code>❗Unlicensed</code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code>
@@ -156,7 +156,7 @@ _Best-of lists about the smart contract_
 	git clone https://github.com/pancakeswap/pancake-swap-core
 	```
 </details>
-<details><summary><b><a href="https://github.com/compound-finance/compound-protocol">Compound</a></b> (🥈15 ·  ⭐ 710 · ➕) - The Compound On-Chain Protocol. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/compound-finance/compound-protocol">Compound</a></b> (🥈15 ·  ⭐ 710) - The Compound On-Chain Protocol. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/compound-finance/compound-protocol) (👨‍💻 14 · 🔀 430 · 📥 170 · 📋 32 - 50% open · ⏱️ 12.04.2021):
 
@@ -175,7 +175,7 @@ _Best-of lists about the smart contract_
 <details><summary>Show 3 hidden projects...</summary>
 
 - <b><a href="https://github.com/sushiswap/sushiswap-interface">Suishi Swap</a></b> (🥉12 ·  ⭐ 24 · 🐣) - An open source interface for the SushiSwap Protocol. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
-- <b><a href="https://github.com/paxosglobal/pax-contracts">Paxos</a></b> (🥉11 ·  ⭐ 62 · 📈) - Solidity smart contracts for the Paxos Standard ERC20 stablecoin PAX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/paxosglobal/pax-contracts">Paxos</a></b> (🥉11 ·  ⭐ 62) - Solidity smart contracts for the Paxos Standard ERC20 stablecoin PAX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/paxosglobal/busd-contract">Binance USD</a></b> (🥉10 ·  ⭐ 24) - Solidity smart contracts for the Binance USD. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 

@@ -1,18 +1,1 @@
-## 📈 Trending Up
-
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
-
-- <b><a href="https://github.com/dogecoin/dogecoin">Dogecoin</a></b> (🥇29 ·  ⭐ 10K · 📈) - very currency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/dashpay/dash">Dash</a></b> (🥇27 ·  ⭐ 1.4K · 📈) - Dash - Reinventing Cryptocurrency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="icons/PoW.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/smartcontractkit/chainlink">Chainlink</a></b> (🥈25 ·  ⭐ 1.9K · 📈) - node of the decentralized oracle network, bridging on and off-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/binance-chain/bsc">Binance chain</a></b> (🥉23 ·  ⭐ 450 · 📈) - A Binance Smart Chain client based on the go-ethereum.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/paxosglobal/pax-contracts">Paxos</a></b> (🥉11 ·  ⭐ 62 · 📈) - Solidity smart contracts for the Paxos Standard ERC20 stablecoin PAX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://github.com/solana-labs/solana">Solana</a></b> (🥈24 ·  ⭐ 2.1K · ➕) - Web-Scale Blockchain for fast, secure, scalable,.. <code>❗Unlicensed</code> <code><img src="icons/PoS.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/compound-finance/compound-protocol">Compound</a></b> (🥈15 ·  ⭐ 710 · ➕) - The Compound On-Chain Protocol. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/sushiswap/sushiswap-interface">Suishi Swap</a></b> (🥉12 ·  ⭐ 24 · 🐣) - An open source interface for the SushiSwap Protocol. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
-
+Nothing changed from last update.
