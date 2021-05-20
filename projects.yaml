@@ -108,6 +108,10 @@ projects:
     github_id: "stellar/stellar-core"
     labels:
         - "PoS"
+  - name: "Suishi Swap"
+    category: "smart-contract"
+    github_id: "sushiswap/sushiswap-interface"
+    labels: []
   - name: "Terra"
     category: "blockchain"
     github_id: "terra-project/core"
